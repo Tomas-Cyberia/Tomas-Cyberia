@@ -1,5 +1,24 @@
 <div align="center">
 
+<img src="banniere-github.jpg" alt="Cyberia : les indicateurs TradingView, en code ouvert" width="100%">
+
+</div>
+
+## Cyberia
+
+Les indicateurs TradingView de [Cyberia](https://cyberiaclub.fr), écrits en Pine Script. Le code se lit en entier, avec sa notice.
+
+| Indicateur | Pour quoi faire |
+|---|---|
+| **[EMA · RSI](https://github.com/Tomas-Cyberia/EMA_RSI)** | La tendance, en daily et weekly : les moyennes mobiles et le RSI dans un seul indicateur |
+| **[Sessions · Liquidité](https://github.com/Tomas-Cyberia/Sessions_Liquidite)** | Le court terme, en intraday : les séances, la liquidité au sens ICT / SMC, les zones H4 |
+
+Des aides à la lecture du graphique, sans promesse de résultat.
+
+---
+
+<div align="center">
+
 # Tomas SOUSA
 
 **Automatisme · Robotique industrielle · Conception mécanique**
@@ -45,21 +64,21 @@ Ici, je publie mes projets personnels en automatisme et robotique : Grafcet, ré
 
 ## Projets GitHub
 
-### [Grafcet SFC Simulator](https://github.com/Toast-Cyberia/grafcet-sfc-simulator)
+### [Grafcet SFC Simulator](https://github.com/Tomas-Cyberia/grafcet-sfc-simulator)
 Moteur GRAFCET générique (IEC 61131-3) appliqué à un convoyeur de tri industriel. Simule capteurs, actionneurs et statistiques de production. Visualisation matplotlib du schéma SFC et des résultats.
 
 `Python` · `Automatisme` · `IEC 61131-3` · `matplotlib`
 
 ---
 
-### [PID Controller](https://github.com/Toast-Cyberia/PID-Controller)
+### [PID Controller](https://github.com/Tomas-Cyberia/PID-Controller)
 Implémentation d'un régulateur PID en C++ pour la régulation de vitesse moteur. Gestion du pas de temps avec `std::chrono`, simulation de la réponse du système.
 
 `C++` · `Régulation` · `Contrôle moteur`
 
 ---
 
-### [ROS Basic Control](https://github.com/Toast-Cyberia/ROS-Basic-Control)
+### [ROS Basic Control](https://github.com/Tomas-Cyberia/ROS-Basic-Control)
 Téléopération d'un robot mobile via ROS (Noetic / Melodic). Publication de commandes `geometry_msgs/Twist` sur `/cmd_vel` depuis le clavier, avec arrêt sécurisé sur interruption.
 
 `Python` · `ROS` · `Robotique mobile`
@@ -90,6 +109,6 @@ Espagnol Intermédiaire - B1
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Toast-Cyberia&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomas-Cyberia&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>

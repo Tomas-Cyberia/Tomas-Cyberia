@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="banniere-github.jpg" alt="Cyberia : les indicateurs TradingView, pour ses membres" width="100%">
+<img src="banniere-github.jpg" alt="Cyberia : les indicateurs TradingView, en Pine Script" width="100%">
 
 </div>
 
 ## Cyberia
 
-Les indicateurs TradingView de [Cyberia](https://cyberiaclub.fr), écrits en Pine Script. Le code se lit en entier, avec sa notice, pour les membres du Discord de Cyberia.
+[Cyberia](https://cyberiaclub.fr) est mon club de trading et d'investissement. J'y écris les parcours de formation, et j'y développe des indicateurs TradingView en Pine Script, chacun avec sa notice complète.
 
-| Indicateur | Pour quoi faire |
+| Indicateur | Ce qu'il fait |
 |---|---|
 | **EMA · RSI** | La tendance, en daily et weekly : les moyennes mobiles et le RSI dans un seul indicateur |
-| **Sessions · Liquidité** | Le court terme, en intraday : les séances, la liquidité au sens ICT / SMC, les zones H4 |
+| **Sessions · Liquidité** | Le court terme, en intraday : les séances, la liquidité au sens ICT / SMC, les zones H4 et les plans de la stratégie d'école |
 
 Des aides à la lecture du graphique, sans promesse de résultat.
 

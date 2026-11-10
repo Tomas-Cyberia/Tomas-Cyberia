@@ -15,8 +15,6 @@
 
 Des aides à la lecture du graphique, sans promesse de résultat.
 
----
-
 <div align="center">
 
 # Tomas SOUSA
@@ -28,21 +26,17 @@ Des aides à la lecture du graphique, sans promesse de résultat.
 
 </div>
 
----
-
 ## À propos
 
-Diplômé en génie mécanique, je me spécialise vers l'automatisme et la robotique industrielle.
+Diplômé en génie mécanique, je me spécialise en automatisme et en robotique industrielle.
 
-J'ai travaillé en bureau d'études chez ArcelorMittal Research (systèmes de levage, mesure laser), puis en documentation technique chez Noremat sur l'intégration de bras et véhicules porteurs.
+J'ai travaillé en bureau d'études chez ArcelorMittal Research, sur des systèmes de levage et de mesure laser, puis en documentation technique chez Noremat, sur l'intégration de bras et de véhicules porteurs.
 
-Ici, je publie mes projets personnels en automatisme et robotique : Grafcet, régulation PID, ROS.
-
----
+Ici, je publie les indicateurs de Cyberia et mes projets personnels en automatisme et en robotique : Grafcet, régulation PID, ROS.
 
 ## Compétences techniques
 
-### Automatisme & Robotique
+### Automatisme et robotique
 ![Grafcet](https://img.shields.io/badge/Grafcet-IEC%2061131--3-0055A4?style=flat-square)
 ![ROS](https://img.shields.io/badge/ROS-Noetic-22314E?style=flat-square&logo=ros)
 ![PLC](https://img.shields.io/badge/API%2FPLC-Schneider%20%7C%20Siemens-009999?style=flat-square)
@@ -60,55 +54,37 @@ Ici, je publie mes projets personnels en automatisme et robotique : Grafcet, ré
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
-
-## Projets GitHub
+## Projets en automatisme et robotique
 
 ### [Grafcet SFC Simulator](https://github.com/Tomas-Cyberia/grafcet-sfc-simulator)
 Moteur GRAFCET générique (IEC 61131-3) appliqué à un convoyeur de tri industriel. Simule capteurs, actionneurs et statistiques de production. Visualisation matplotlib du schéma SFC et des résultats.
 
 `Python` · `Automatisme` · `IEC 61131-3` · `matplotlib`
 
----
-
 ### [PID Controller](https://github.com/Tomas-Cyberia/PID-Controller)
 Implémentation d'un régulateur PID en C++ pour la régulation de vitesse moteur. Gestion du pas de temps avec `std::chrono`, simulation de la réponse du système.
 
 `C++` · `Régulation` · `Contrôle moteur`
-
----
 
 ### [ROS Basic Control](https://github.com/Tomas-Cyberia/ROS-Basic-Control)
 Téléopération d'un robot mobile via ROS (Noetic / Melodic). Publication de commandes `geometry_msgs/Twist` sur `/cmd_vel` depuis le clavier, avec arrêt sécurisé sur interruption.
 
 `Python` · `ROS` · `Robotique mobile`
 
----
-
 ## Expériences clés
 
-2026 - Documentation technique - **Noremat** - Rédaction de manuels industriels, vues éclatées CAO, gestion ERP 
-
-2025 - Bureau d'études - **ArcelorMittal Research** - Conception de systèmes de levage et dispositifs de mesure laser 
-
-2023 - Hackathon IUT Metz - **Médaille d'argent** - Solution logicielle et matérielle d'optimisation de trajets 
-
----
+- **2026 · Noremat**, documentation technique : manuels industriels, vues éclatées CAO, gestion ERP.
+- **2025 · ArcelorMittal Research**, bureau d'études : systèmes de levage et dispositifs de mesure laser.
+- **2023 · Hackathon IUT Metz**, médaille d'argent : une solution logicielle et matérielle d'optimisation de trajets.
 
 ## Langues
 
-Français - Langue maternelle - C2 
-
-Portugais / Brésilien - Langue maternelle - C2 
-
-Anglais Professionnel - B2 (TOEIC 870/990) 
-
-Espagnol Intermédiaire - B1 
-
----
+- **Français** et **portugais / brésilien** : langues maternelles (C2)
+- **Anglais** : professionnel, B2 (TOEIC 870/990)
+- **Espagnol** : intermédiaire, B1
 
 <div align="center">
-  
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomas-Cyberia&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>

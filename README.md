@@ -10,8 +10,8 @@
 
 | Indicateur | Ce qu'il fait |
 |---|---|
-| **EMA · RSI** | La tendance, en daily et weekly : les moyennes mobiles et le RSI dans un seul indicateur |
-| **Sessions · Liquidité** | Le court terme, en intraday : les séances, la liquidité au sens ICT / SMC, les zones H4 et les plans de la stratégie d'école |
+| **[EMA · RSI](https://github.com/Tomas-Cyberia/EMA_RSI)** | La tendance, en daily et weekly : les moyennes mobiles et le RSI dans un seul indicateur |
+| **[Sessions · Liquidité](https://github.com/Tomas-Cyberia/Sessions_Liquidite)** | Le court terme, en intraday : les séances, la liquidité au sens ICT / SMC, les zones H4 et les plans de la stratégie d'école |
 
 Des aides à la lecture du graphique, sans promesse de résultat.
 

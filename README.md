@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banniere-github.jpg" alt="Cyberia : les indicateurs TradingView, en code ouvert" width="100%">
+<img src="banniere-github.jpg" alt="Cyberia : les indicateurs TradingView, pour ses membres" width="100%">
 
 </div>
 

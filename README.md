@@ -8,10 +8,8 @@
 
 [Cyberia](https://cyberiaclub.fr) est mon club de trading et d'investissement. J'y écris les parcours de formation, et j'y développe des indicateurs TradingView en Pine Script, chacun avec sa notice complète.
 
-| Indicateur | Ce qu'il fait |
-|---|---|
-| **[EMA · RSI](https://github.com/Tomas-Cyberia/EMA_RSI)** | La tendance, en daily et weekly : les moyennes mobiles et le RSI dans un seul indicateur |
-| **[Sessions · Liquidité](https://github.com/Tomas-Cyberia/Sessions_Liquidite)** | Le court terme, en intraday : les séances, la liquidité au sens ICT / SMC, les zones H4 et les plans de la stratégie d'école |
+- **[EMA · RSI](https://github.com/Tomas-Cyberia/EMA_RSI)** : la tendance, en daily et weekly. Les moyennes mobiles et le RSI dans un seul indicateur.
+- **[Sessions · Liquidité](https://github.com/Tomas-Cyberia/Sessions_Liquidite)** : le court terme, en intraday. Les séances, la liquidité au sens ICT / SMC, les zones H4 et les plans de la stratégie d'école.
 
 Des aides à la lecture du graphique, sans promesse de résultat.
 
